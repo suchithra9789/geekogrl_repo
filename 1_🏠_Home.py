@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from streamlit_lottie import st_lottie
+#from streamlit_lottie import st_lottie
 from streamlit_timeline import timeline
 import streamlit.components.v1 as components
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, LLMPredictor, ServiceContext
